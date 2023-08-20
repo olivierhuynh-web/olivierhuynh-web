@@ -2,11 +2,11 @@
 
 ### Développeur web
 
-🔸 Langages de programmation : Python, JavaScript, Java  
-🔸 Frameworks : React, Flask  
-🔸 Bases de données : MySQL, MongoDB  
-🔸 Outils et Technologies : Git, Docker, AWS  
-🔸 Méthodologies : Agile, DevOps
+🔸 Langages de programmation : JavaScript, TypeScript, NodeJS  
+🔸 Frameworks : React  
+🔸 Bases de données : PostgreSQL  
+🔸 Outils et Technologies : Git, Figma  
+🔸 Méthodologies : Agile, en V et en cascade
 
 ### En ce moment
 
