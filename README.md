@@ -3,20 +3,20 @@
 ### Développeur web
 
 🔸 Langages de programmation : JavaScript, TypeScript, NodeJS  
-🔸 Frameworks : React  
-🔸 Bases de données : PostgreSQL  
+🔸 Framework : React  
+🔸 Base de données : PostgreSQL  
 🔸 Outils et Technologies : Git, Figma  
 🔸 Méthodologies : Agile, en V et en cascade
 
 ### En ce moment
 
-🔸 Projects : Kinomatch, portfolio  
+🔸 Projets : Kinomatch, portfolio  
 🔸 Apprentissage : Gsap, Next.js  
 🔸 Profesionnel : Ouvert pour contrats de développement web et collaborations
 
 ### Contact
 
-🔸 Email : [olivier.huynh@yahoo.fr](mailto:olivier.huynh@yahoo.fr?subject=Salut%Olivier,%20il%20faut%20qu'on%20parle)
+🔸 Email : [olivier.huynh@yahoo.fr](mailto:olivier.huynh@yahoo.fr?subject=Salut%Olivier,%20ton%20profil%20GitHub%20m'a%20amené%20à%20t'écrire)
 
 <!--
 **olivierhuynh-web/olivierhuynh-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
