@@ -1,4 +1,4 @@
-<img src="/BlueBack22.jpg" alt="Texte alternatif" width="300" />
+<img src="/BlueBack22.jpg" alt="Texte alternatif" width="600" />
 
 ### Développeur web
 
