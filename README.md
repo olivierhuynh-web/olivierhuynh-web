@@ -2,16 +2,17 @@
 
 ### Développeur web
 
-🔸 Langages de programmation : JavaScript, TypeScript, NodeJS  
-🔸 Framework : React  
-🔸 Base de données : PostgreSQL  
+🔸 Langages de programmation : JavaScript, TypeScript
+🔸 Framework : React, Next.js   
+🔸 Bibliothèque utilisée : GSAP
+🔸 Back-end : PostgreSQL,  NodeJS 
 🔸 Outils et Technologies : Git, Figma  
 🔸 Méthodologies : Agile, en V et en cascade
 
 ### En ce moment
 
-🔸 Projets : Kinomatch, portfolio  
-🔸 Apprentissage : Gsap, Next.js  
+🔸 Projets : portfolio  
+🔸 Apprentissage : Framer Motion
 🔸 Profesionnel : Ouvert pour contrats de développement web et collaborations
 
 ### Contact
