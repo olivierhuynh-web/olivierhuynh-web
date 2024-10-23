@@ -1,4 +1,4 @@
-![Texte alternatif](/cover.png)
+![Texte alternatif](/BlueBack22.jpg)
 
 ### Développeur web
 
