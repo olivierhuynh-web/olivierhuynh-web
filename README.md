@@ -1,4 +1,4 @@
-<img src="/BlueBack22cropped.jpg" width="100%" />
+<img src="/BlueBack22cropped2.jpg" width="100%" />
 
 ### Développeur web
 
